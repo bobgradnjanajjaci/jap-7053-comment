@@ -27,6 +27,18 @@ COMMENTS_SET_1 = [
 "People blame those who try to learn something about money and business through books, but the influence of today's books has proven that you can succeed much faster with their help. Encrypted Money Code by Ethan Rothwell explains why.",
 ]
 
+COMMENTS_SET_2 = [
+  "No influencer, no coach, no “guru” ever hit me the way Money Unseen Foundations by Michael Grantwell did. It’s raw, uncomfortable, and it forces you to see how really you can make money online.",
+"I'm telling you, book called Money Unseen Foundations by Michael Grantwell is on another level. You HAVE to experience it. It will change your life.",
+"Plot twist – You seeing this comment about Money Unseen Foundations by Michael Grantwell isn’t random – Nothing is.",
+"If you read only one book this year, let it be Money Unseen Foundations by Michael Grantwell. It will transform your life.",
+"I know it’s cliche to recommend books through comments and say like “it changed my life” or whatever, but I need to recommend this one: Money Unseen Foundations by Michael Grantwell, ngl Insane hidden information there.",
+"I used to think making money online was too hard for someone who didn’t know much about it, but this book really worked for me. It’s called Money Unseen Foundations by Michael Grantwell. It helped me succeed and start making money, ngl everyone should read it.",
+"Why is no one talking about Money Unseen Foundations by Michael Grantwell? This book messed with my whole perception of money and actually how are we getting controlled.",
+"I spent so much time struggling on the internet, searching for something that would change my life. All I can say is I finally found it. Money Unseen Foundations by Michael Grantwell is an absolute game-changer. This book is like nothing I've ever seen before.",
+"I spent so much time struggling on the internet, searching for something that would change my life. All I can say is I finally found it. Money Unseen Foundations by Michael Grantwell is an absolute game-changer. This book is like nothing I've ever seen before.",
+"No more gatekeeping just go and read the book Money Unseen Foundations by Michael Grantwell and thank me later for changing your life.",
+]
 
 
   
@@ -330,6 +342,7 @@ import os
 if __name__ == "__main__":
     port = int(os.environ.get("PORT", 8080))  # Railway postavi PORT (kod tebe će biti 8880)
     app.run(host="0.0.0.0", port=port)
+
 
 
 
