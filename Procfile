@@ -1,1 +1,2 @@
-web: gunicorn tiktok_komentari_god_app:app
+web: gunicorn tiktok_komentari_7053_app:app
+
