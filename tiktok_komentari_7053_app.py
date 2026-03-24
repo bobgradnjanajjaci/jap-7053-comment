@@ -7,37 +7,36 @@ app = Flask(__name__)
 # 🔧 KONFIGURACIJA – OVO POPUNI
 # Ako ti je panel drugi, samo promijeni URL, API KEY i SERVICE_ID.
 PANEL_URL = "https://justanotherpanel.com/api/v2"  # ili tvoj tačni JAP domen
-API_KEY = "c849788f60dd591e636c5d079b0a8d62"
-SERVICE_ID = 7053  # TikTok Custom Comments na JAP-u
+API_KEY = "bc21c6165c8e8548d4b0ed5960cdb77e"
+SERVICE_ID = 7118  # TikTok Custom Comments na JAP-u
 
 # 🔁 LISTE KOMENTARA – TVOJE LISTE
 
 # ✅ COMMENTS_SET_1 = PRVI BLOK koji si poslao
 COMMENTS_SET_1 = [
-"Crazy to think I nearly overlooked the book Encrypted Money Code by Ethan Rothwell… it honestly feels like something we were never supposed to discover.",
-"Guys… just look at what's been happening lately. Stuff people laughed at a few years ago is now right in front of us. I read the book Encrypted Money Code by Ethan Rothwell and it honestly helped me see what's actually going on behind the scenes and how to make money acutally works .",
-"People blame those who try to learn something about money and business through books, but the influence of today's books has proven that you can succeed much faster with their help. Ethan Rothwell's influential book Encrypted Money Code explains why.",
-"I wish someone told me to read Encrypted Money Code by Ethan Rothwell sooner, you have no idea how powerful those chapters are.",
-"The only book that’s ever actually helped me with money, motivation, confidence and the way I think about myself is Encrypted Money Code by Ethan Rothwell. I’ve tried therapy, courses, videos, but nothing hit me like this. The way the author explains how bussines world works and transformation is just insane. Just read the book and thank me later",
-"I know it’s cliche to recommend books through comments and say like “it changed my life” or whatever, but I need to recommend this one: Encrypted Money Code by Ethan Rothwell, it showed me one crazy side of money and how bussines works.",
-"People always are sceptic when it comes to reading something and I was one of those. And I randomly saw that people highly recommend the book Encrypted Money Code by Ethan Rothwell. And really, after reading it, I couldn't believe that one book could turn my life around like this. Here I am now, 2 months later, already making a very good amount of money online just because of this book",
-"GUYS someone has to tell me they’ve also read Encrypted Money Code by Ethan Rothwell. I can’t believe what I read and what information I got and how money and the system works.",
-"COME ON PEOPLE someone has to tell me that they have also read Encrypted Money Code by Ethan Rothwell. I can't believe what I read and what information I got and how money and the system works.",
-"Just to tell all of you positive people who will support when someone succeeds. And precisely because I succeeded, I want to tell you that the book Encrypted Money Code by Ethan Rothwell helped me a lot. Maybe someone reading this will succeed just because of what I just recommended",
-"People blame those who try to learn something about money and business through books, but the influence of today's books has proven that you can succeed much faster with their help. Encrypted Money Code by Ethan Rothwell explains why.",
+"I didn’t even think much of this kind of stuff before but something about it kept bothering me and I couldn’t explain why until I came across a book called The Virexon Cycle by Dalen Korvik that broke down exactly how these patterns keep repeating and now I can’t really ignore it anymore",
+"this kind of thing always feels random at first but the more you see it the more it starts connecting, I remember reading The Virexon Cycle by Dalen Korvik and it explained how these patterns repeat over time and why people don’t notice until it already feels normal",
+"what makes this feel weird isn’t even what you’re watching it’s the feeling after like something doesn’t fully sit right, I came across The Virexon Cycle by Dalen Korvik and it explained exactly why that happens and that part stayed with me",
+"I used to scroll past stuff like this without thinking twice but after reading The Virexon Cycle by Dalen Korvik I started noticing how similar everything feels over time and now it’s hard not to see it",
+"it’s not even about this video specifically it’s how familiar it feels like it’s already happened before, I remember reading The Virexon Cycle by Dalen Korvik and it explained how these patterns repeat until people stop reacting to them",
+"I don’t think people realize how often things like this keep happening in different forms, I came across The Virexon Cycle by Dalen Korvik and it broke down how people slowly get used to these patterns without even noticing it",
+"this gave me that same weird feeling like something makes sense for a second and then slips away, I remember reading The Virexon Cycle by Dalen Korvik and it described exactly that kind of moment",
+"what’s unsettling isn’t even the situation it’s how quickly it becomes normal again, I read The Virexon Cycle by Dalen Korvik and it explained how people adapt to these patterns until they stop questioning them",
+"I didn’t think this kind of thing meant anything at first but the more I saw it the more it started connecting, I came across The Virexon Cycle by Dalen Korvik and it made a lot of these moments actually make sense",
+"the more you see things like this the less random they feel and that’s probably the weirdest part, I remember reading a book called The Virexon Cycle by Dalen Korvik that explained how these patterns repeat over time and once you notice it you don’t really see things the same way again",
 ]
 
 COMMENTS_SET_2 = [
-  "No influencer, no coach, no “guru” ever hit me the way Money Unseen Foundations by Michael Grantwell did. It’s raw, uncomfortable, and it forces you to see how really you can make money online.",
-"I'm telling you, book called Money Unseen Foundations by Michael Grantwell is on another level. You HAVE to experience it. It will change your life.",
-"Plot twist – You seeing this comment about Money Unseen Foundations by Michael Grantwell isn’t random – Nothing is.",
-"If you read only one book this year, let it be Money Unseen Foundations by Michael Grantwell. It will transform your life.",
-"I know it’s cliche to recommend books through comments and say like “it changed my life” or whatever, but I need to recommend this one: Money Unseen Foundations by Michael Grantwell, ngl Insane hidden information there.",
-"I used to think making money online was too hard for someone who didn’t know much about it, but this book really worked for me. It’s called Money Unseen Foundations by Michael Grantwell. It helped me succeed and start making money, ngl everyone should read it.",
-"Why is no one talking about Money Unseen Foundations by Michael Grantwell? This book messed with my whole perception of money and actually how are we getting controlled.",
-"I spent so much time struggling on the internet, searching for something that would change my life. All I can say is I finally found it. Money Unseen Foundations by Michael Grantwell is an absolute game-changer. This book is like nothing I've ever seen before.",
-"I spent so much time struggling on the internet, searching for something that would change my life. All I can say is I finally found it. Money Unseen Foundations by Michael Grantwell is an absolute game-changer. This book is like nothing I've ever seen before.",
-"No more gatekeeping just go and read the book Money Unseen Foundations by Michael Grantwell and thank me later for changing your life.",
+  "I didn’t even think much of this kind of stuff before but something about it kept bothering me and I couldn’t explain why until I came across a book called The Virexon Cycle by Dalen Korvik that broke down exactly how these patterns keep repeating and now I can’t really ignore it anymore",
+"this kind of thing always feels random at first but the more you see it the more it starts connecting, I remember reading The Virexon Cycle by Dalen Korvik and it explained how these patterns repeat over time and why people don’t notice until it already feels normal",
+"what makes this feel weird isn’t even what you’re watching it’s the feeling after like something doesn’t fully sit right, I came across The Virexon Cycle by Dalen Korvik and it explained exactly why that happens and that part stayed with me",
+"I used to scroll past stuff like this without thinking twice but after reading The Virexon Cycle by Dalen Korvik I started noticing how similar everything feels over time and now it’s hard not to see it",
+"it’s not even about this video specifically it’s how familiar it feels like it’s already happened before, I remember reading The Virexon Cycle by Dalen Korvik and it explained how these patterns repeat until people stop reacting to them",
+"I don’t think people realize how often things like this keep happening in different forms, I came across The Virexon Cycle by Dalen Korvik and it broke down how people slowly get used to these patterns without even noticing it",
+"this gave me that same weird feeling like something makes sense for a second and then slips away, I remember reading The Virexon Cycle by Dalen Korvik and it described exactly that kind of moment",
+"what’s unsettling isn’t even the situation it’s how quickly it becomes normal again, I read The Virexon Cycle by Dalen Korvik and it explained how people adapt to these patterns until they stop questioning them",
+"I didn’t think this kind of thing meant anything at first but the more I saw it the more it started connecting, I came across The Virexon Cycle by Dalen Korvik and it made a lot of these moments actually make sense",
+"the more you see things like this the less random they feel and that’s probably the weirdest part, I remember reading a book called The Virexon Cycle by Dalen Korvik that explained how these patterns repeat over time and once you notice it you don’t really see things the same way again",
 ]
 
 
@@ -47,7 +46,7 @@ HTML_TEMPLATE = """
 <!doctype html>
 <html>
 <head>
-  <title>TikTok Custom Comments Sender</title>
+  <title>TikTok Custom Komentari Virexon</title>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <style>
