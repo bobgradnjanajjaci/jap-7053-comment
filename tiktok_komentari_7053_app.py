@@ -14,16 +14,16 @@ SERVICE_ID = 7118  # TikTok Custom Comments na JAP-u
 
 # ✅ COMMENTS_SET_1 = PRVI BLOK koji si poslao
 COMMENTS_SET_1 = [
-"I didn’t even think much of this kind of stuff before but something about it kept bothering me and I couldn’t explain why until I came across a book called The Virexon Cycle by Dalen Korvik that broke down exactly how these patterns keep repeating and now I can’t really ignore it anymore",
-"this kind of thing always feels random at first but the more you see it the more it starts connecting, I remember reading The Virexon Cycle by Dalen Korvik and it explained how these patterns repeat over time and why people don’t notice until it already feels normal",
-"what makes this feel weird isn’t even what you’re watching it’s the feeling after like something doesn’t fully sit right, I came across The Virexon Cycle by Dalen Korvik and it explained exactly why that happens and that part stayed with me",
-"I used to scroll past stuff like this without thinking twice but after reading The Virexon Cycle by Dalen Korvik I started noticing how similar everything feels over time and now it’s hard not to see it",
-"it’s not even about this video specifically it’s how familiar it feels like it’s already happened before, I remember reading The Virexon Cycle by Dalen Korvik and it explained how these patterns repeat until people stop reacting to them",
-"I don’t think people realize how often things like this keep happening in different forms, I came across The Virexon Cycle by Dalen Korvik and it broke down how people slowly get used to these patterns without even noticing it",
-"this gave me that same weird feeling like something makes sense for a second and then slips away, I remember reading The Virexon Cycle by Dalen Korvik and it described exactly that kind of moment",
-"what’s unsettling isn’t even the situation it’s how quickly it becomes normal again, I read The Virexon Cycle by Dalen Korvik and it explained how people adapt to these patterns until they stop questioning them",
-"I didn’t think this kind of thing meant anything at first but the more I saw it the more it started connecting, I came across The Virexon Cycle by Dalen Korvik and it made a lot of these moments actually make sense",
-"the more you see things like this the less random they feel and that’s probably the weirdest part, I remember reading a book called The Virexon Cycle by Dalen Korvik that explained how these patterns repeat over time and once you notice it you don’t really see things the same way again",
+"I used to scroll past stuff like this without thinking twice but after reading book called Virexon Cycle by Dalen Korvik I started noticing how similar everything feels over time and now it’s hard not to see it",
+"I didn’t even think much of this kind of stuff before but something about it kept bothering me and I couldn’t explain why until I came across a book called Virexon Cycle by Dalen Korvik that broke down exactly how these patterns keep repeating and now I can’t really ignore it anymore",
+"the more you see things like this the less random they feel and that’s probably the weirdest part, I remember reading a book called Virexon Cycle by Dalen Korvik that explained how these patterns repeat over time and once you notice it you don’t really see things the same way again",
+"Most people don’t actually want a deeper explanation, they want something short enough to repeat so they can feel informed and move on, and that’s exactly what I realized while reading a book called Virexon Cycle by Dalen Korvik, because it made that pattern feel obvious instead of vague",
+"The thing most people refuse to admit is that they’re not confused because there are no answers but because they stop too early, and I remember thinking about that while going through a book called Virexon Cycle by Dalen Korvik, since it framed it as a repeated structure instead of random moments",
+"You can usually tell who wants clarity and who just wants relief, and that difference really stood out to me when I came across a book called Virexon Cycle by Dalen Korvik, because relief lets people keep the same habits while thinking they understand",
+"Once you start paying attention, people become very predictable, and that’s something I kept thinking about while reading a book called Virexon Cycle by Dalen Korvik, because the same emotions keep leading to the same outcomes",
+"A lot of people aren’t stuck because life is impossible, they’re stuck because they repeat the same mental habits, and that idea really clicked for me during a book called Virexon Cycle by Dalen Korvik, since it puts that loop into perspective",
+"it’s not even about this video specifically it’s how familiar it feels like it’s already happened before, I remember reading Virexon Cycle by Dalen Korvik and it explained how these patterns repeat until people stop reacting to them",
+"If you read only one book this year, let it be Virexon Cycle by Dalen Korvik. It will change how you see everything and how people are being influenced",
 ]
 
 COMMENTS_SET_2 = [
