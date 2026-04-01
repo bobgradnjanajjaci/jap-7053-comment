@@ -14,16 +14,16 @@ SERVICE_ID = 7118  # TikTok Custom Comments na JAP-u
 
 # ✅ COMMENTS_SET_1 = PRVI BLOK koji si poslao
 COMMENTS_SET_1 = [
-"I used to scroll past stuff like this without thinking twice but after reading book called Virexon Cycle by Dalen Korvik I started noticing how similar everything feels over time and now it’s hard not to see it",
-"I didn’t even think much of this kind of stuff before but something about it kept bothering me and I couldn’t explain why until I came across a book called Virexon Cycle by Dalen Korvik that broke down exactly how these patterns keep repeating and now I can’t really ignore it anymore",
-"the more you see things like this the less random they feel and that’s probably the weirdest part, I remember reading a book called Virexon Cycle by Dalen Korvik that explained how these patterns repeat over time and once you notice it you don’t really see things the same way again",
-"Most people don’t actually want a deeper explanation, they want something short enough to repeat so they can feel informed and move on, and that’s exactly what I realized while reading a book called Virexon Cycle by Dalen Korvik, because it made that pattern feel obvious instead of vague",
-"The thing most people refuse to admit is that they’re not confused because there are no answers but because they stop too early, and I remember thinking about that while going through a book called Virexon Cycle by Dalen Korvik, since it framed it as a repeated structure instead of random moments",
-"You can usually tell who wants clarity and who just wants relief, and that difference really stood out to me when I came across a book called Virexon Cycle by Dalen Korvik, because relief lets people keep the same habits while thinking they understand",
-"Once you start paying attention, people become very predictable, and that’s something I kept thinking about while reading a book called Virexon Cycle by Dalen Korvik, because the same emotions keep leading to the same outcomes",
-"A lot of people aren’t stuck because life is impossible, they’re stuck because they repeat the same mental habits, and that idea really clicked for me during a book called Virexon Cycle by Dalen Korvik, since it puts that loop into perspective",
-"it’s not even about this video specifically it’s how familiar it feels like it’s already happened before, I remember reading Virexon Cycle by Dalen Korvik and it explained how these patterns repeat until people stop reacting to them",
-"If you read only one book this year, let it be Virexon Cycle by Dalen Korvik. It will change how you see everything and how people are being influenced",
+"i didn’t think much of this until i actually went through those 2016 posts myself. the weird part is not even what he said, but how closely it matches what’s happening now. Virexon Cycle makes it feel less random and more like something repeating.",
+"at first i thought this was just another theory but then i checked the archived posts and compared them with what’s going on now. it’s uncomfortable how similar everything feels. Virexon Cycle kind of explains why it doesn’t feel accidental.",
+"what bothers me the most is that this stuff was apparently written years ago and people just ignored it. i went through some of the 2016 content and it’s way too close to what we’re seeing now. Virexon Cycle makes it hard to brush it off.",
+"i used to scroll past videos like this without thinking, but after seeing those old posts it’s different. it’s not even about believing it, it’s just strange how consistent the patterns are. Virexon Cycle frames it in a way that makes you question things.",
+"the part people don’t get is that it’s not about predicting one thing, it’s about the pattern repeating. once i compared the 2016 posts with now, it started to make more sense. Virexon Cycle explains it better than i expected.",
+"i remember someone talking about this kind of stuff years ago and everyone thought he was crazy. i checked the 2016 posts recently and it’s honestly uncomfortable how close it is to what’s happening now. Virexon Cycle kind of connects the dots.",
+"back in 2016 i saw people mention this and i didn’t care at all. recently i came across those archived posts again and now it feels completely different. Virexon Cycle makes it look less like coincidence.",
+"i’m not saying this is 100% true, but after going through the older posts it’s hard to ignore how similar everything is. it feels less like random events and more like something repeating. that’s what Virexon Cycle points at.",
+"most people look at single events, but this seems more about the structure behind them. once i compared the timeline from 2016 to now, it didn’t feel random anymore. Virexon Cycle explains it in a different way.",
+"the strange part isn’t the claims, it’s the consistency. when you line up the older posts with what’s happening now, it starts to look like a pattern instead of coincidence. Virexon Cycle frames it like that.",
 ]
 
 COMMENTS_SET_2 = [
